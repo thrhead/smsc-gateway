@@ -29,7 +29,7 @@ A high-performance SMSC Gateway system optimized for direct operator connectivit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/smsc-gateway.git
+git clone https://github.com/thrhead/smsc-gateway.git
 cd smsc-gateway
 ```
 
